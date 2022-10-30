@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "texturizer:guideblock" 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "texturizer:guideblock" 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "texturizer:guideblock","y":270 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "texturizer:guideblock","y":90 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "texturizer:guideblock","y":180 
+        }
+    }
+}

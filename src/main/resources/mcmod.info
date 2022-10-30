@@ -1,0 +1,16 @@
+[
+{
+  "modid": "texturizer",
+  "name": "Texturizer",
+  "description": "Adds the Texture Wand, and various other building utilities.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Contomman"],
+  "credits": "Special Thanks to the Forge Modding Tutorials by TurtyWurty and McJty",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

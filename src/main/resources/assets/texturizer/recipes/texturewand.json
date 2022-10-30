@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " iE",
+    " si",
+    "s  "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "texturizer:texturewand"
+  }
+}

@@ -1,0 +1,7 @@
+item.texturewand.name=Texture Wand
+item.pathwand.name=Path Wand
+item.catwand.name=Catenary Wand
+tile.guideblock.name=Building Guide
+key.categories.texturizer=Texturizer
+key.texturizer.toggleWandMode=Toggle Mode
+key.texturizer.openWandInv=Open Inventory
